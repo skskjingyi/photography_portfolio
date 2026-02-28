@@ -10,6 +10,14 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Custom beige palette */
+  --color-beige-50:  #faf7f2;
+  --color-beige-100: #f5f0e8;
+  --color-beige-200: #e8dcc8;
+  --color-beige-300: #d4c9b0;
+  --color-beige-400: #b8a080;
+  --color-beige-500: #a89070;
 }
 
 @media (prefers-color-scheme: dark) {
